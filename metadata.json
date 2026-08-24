@@ -1,0 +1,6 @@
+{
+  "name": "Ahammy Stitches",
+  "description": "Digital-First Fashion Studio — Bespoke luxury tailoring, interactive design brief builder, and real-time garment tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
